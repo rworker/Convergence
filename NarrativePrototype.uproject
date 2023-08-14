@@ -18,6 +18,10 @@
 		{
 			"Name": "UdpMessaging",
 			"Enabled": false
+		},
+		{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
 		}
 	]
 }
